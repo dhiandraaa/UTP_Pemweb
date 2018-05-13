@@ -7,12 +7,16 @@
     <link rel="stylesheet" type="text/css" media="screen" href="main.css" />
     <script src="main.js"></script>
     <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/style.css">
     <script src="js/bootstrap.min.js"></script>
 </head>
 <body>
-    <header>
-        <h2> Zakat </h3>
-        <h3> Selamat Datang <h3>
-        <button type="button" class="btn btn-success" name="logout">Logout</button>
-    </header>
+  <div class="navigasi">
+    <ul class="navigasi">
+    <li><a class="active" href="#home">Home</a></li>
+    <li><a href="#hitung zakat">Hitung Zakat</a></li>
+    <li><a href="#about">About</a></li>
+    <li><a href="#logout">Logout</a></li>
+  </ul>
+  </div>
 </body>
