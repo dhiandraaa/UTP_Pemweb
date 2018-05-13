@@ -21,3 +21,8 @@
 .navigasi li a:hover {
     background-color: #111;
 }
+
+.bawah{
+    background-color: darkslategray;
+    padding: 5px;
+}
