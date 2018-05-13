@@ -1,0 +1,18 @@
+header{
+    background: greenyellow;
+    text-align: center;
+    font-family: 'Trebuchet MS';
+}
+
+body{
+}
+
+.footer{
+    background-color: #C1FF65;
+}
+
+.wrap{
+    background-image: 'background.jpg';
+    font-family: 'Courier New';
+    border-radius: 2px;
+}
