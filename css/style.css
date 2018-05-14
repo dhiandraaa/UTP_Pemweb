@@ -26,3 +26,11 @@
     background: linear-gradient(to right, #ffffff -14%, #0066ff 100%);
     padding-right: 500px;
 }
+
+.carousel{
+    padding-top: 10px;
+    border-radius: 5px;
+    width: 750px;
+    height: 700px;
+}
+
