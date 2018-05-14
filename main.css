@@ -1,18 +1,49 @@
+@charset "utf-8";
+/* CSS Document */
 header{
     background: greenyellow;
     text-align: center;
     font-family: 'Trebuchet MS';
 }
 
+
+#wrap{
+	border-radius: 10px;
+	padding-top: 25px;
+	padding-bottom: 50px;
+	background-color: #FFFFFF;
+	height: 250px;
+	width: 500px;
+	font-size: 30px;
+}
+input{
+	border-radius: 5px;
+	padding-top: 5px;
+	border:groove;
+	height: 40px;
+	width: 300px;
+	font-size: 15px;
+}
+Button{
+	font-size: 15px;
+	height: 42px;
+	width: 305px;
+	background-color: greenyellow;
+	color: aliceblue;
+	align-content: center;
+	border-radius: 5px;
+}
 body{
+	background-color:greenyellow;
 }
-
-.footer{
-    background-color: #C1FF65;
+h3{
+	padding-top: 1px;
+	font-family:Gotham, Helvetica Neue, Helvetica, Arial," sans-serif";
 }
-
-.wrap{
-    background-image: 'background.jpg';
-    font-family: 'Courier New';
-    border-radius: 2px;
+p{
+	color: ghostwhite;
+}
+a{
+	color: ghostwhite;
+	text-decoration: none;
 }
