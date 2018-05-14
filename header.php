@@ -17,6 +17,7 @@
         <li><a class="active" href="index.php">Home</a></li>
         <li><a href="kalkulator.php">Hitung Zakat</a></li>
         <li><a href="about.php">About</a></li>
+        <li><a href="laporan.php">Laporan</a></li>
         <li><a href="logout.php">Logout</a></li>
     </ul>
   </div>
