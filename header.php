@@ -14,10 +14,10 @@
 <body>
   <div class="navigasi">
     <ul class="navigasi">
-        <li><a class="active" href="#home">Home</a></li>
-        <li><a href="#hitung zakat">Hitung Zakat</a></li>
-        <li><a href="#about">About</a></li>
-        <li><a href="#logout">Logout</a></li>
+        <li><a class="active" href="index.php">Home</a></li>
+        <li><a href="kalkulator.php">Hitung Zakat</a></li>
+        <li><a href="about.php">About</a></li>
+        <li><a href="logout.php">Logout</a></li>
     </ul>
   </div>
 </body>
